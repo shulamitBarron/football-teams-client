@@ -1,0 +1,1 @@
+export const TEAMS_URL = 'http://localhost:8080/teams';
